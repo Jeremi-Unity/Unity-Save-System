@@ -1,5 +1,5 @@
 
-# Unity Save System
+# Unity Save System(Json and Binary)
 Unity version: 2021.3.7f1
 <br>Unity Save System - https://youtu.be/fMF-i36Uifc     (27/04/2023)
 
